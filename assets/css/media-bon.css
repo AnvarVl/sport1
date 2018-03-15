@@ -1,0 +1,521 @@
+@media screen and (max-device-width: 1300px){
+	.logo.logo-header.logo-0 {
+		width: 25%;
+	}
+	.nav-header {
+		margin: 10px 0px 0 15px;
+	}
+	.content {
+		max-width: 895px;
+		width: 100%;
+	}
+	.content-block{
+		width: 290px;
+		height: 400px;
+	}
+	.content-block-forecast .prognozy-schet,
+	.content-left .content-block-img, 
+	.content-left .content-block-left-text {
+		width: 585px;
+	}
+	.content-block-right-0 {
+		flex-direction: column-reverse;
+	}
+	.content-block-right-0-news{
+		flex-direction: column;
+	}
+	.content-block-left-0.order1 {
+		order: 1;
+	}
+	.content-block-left-0.order2 {
+		order: 2;
+	}
+	.content-block-red.order3 {
+		order: 1;
+	}
+	.content-block-red{
+		height: 225px;
+	}
+	.content-block-left-0.order4 {
+		order: 2;
+	}
+	.content-block-left-0.order5 {
+		order: 1;
+	}
+	.content-block-red {
+		flex-wrap: wrap;
+		align-items: inherit;
+	}
+	.content-block-red .div-top .h2-p {
+		width: 100%;
+	}
+	.content-block-red .div-top .h2-p p {
+		bottom: 123px;
+		right: 218px;
+	}
+	.content-block-red .div-top .img {
+		margin: 15px 18px 0 0px;
+	}
+	.content-left .content-block-img .text-butt-left {
+		width: 77%;
+	}
+	.content-left .content-block-img {
+		background-image: url(../img/news/Layer726.png);
+		height: 400px;
+	}
+	.content-left .span-content-block-left-text-top p {
+		width: 12%;
+	}
+	.content-block-left-text.content-block-left-news-novosti .news-conteiner-sec-4-4.w-100 .span-time-news {
+		bottom: 35px;
+	}
+	.content-block-left-news-novosti .news-conteiner-sec-4-4 {
+		width: 47%;
+	}
+	.content-block-left-news-novosti .news.news-novosti.sec-4.sec-4-4 {
+		background-image: url(../img/Rectanglecopy20.png);
+	}
+	.content-section-button-news{
+		display: none;
+	}
+	.content-block-left-text.content-block-left-news-novosti .news-conteiner-sec-4-4.w-100 {
+		display: none;
+	}
+	.div-prognozy-span-forecast{
+		display: block;
+	}
+	.match-button-s-2-2-f{
+		display: none;
+	}
+	.div-prognozy-forecast.div-center .span-1{
+		display: none;
+	}
+	.content-block-1-forecast2 {
+		height:auto;
+	}
+	.content-block-right-0-forecast2,
+	.content-block-right-0-school {
+		flex-direction: column;
+	}
+	.span-butt-right-school {
+		position: absolute;
+		bottom: 80px;
+		left: 20px;
+		display: flex;
+	}
+	.text-butt-left-school {
+		width: 85%;
+	}
+	.content-block-right-0.content-block-right-bookmakers {
+		flex-direction: column;
+	}
+	.div-prognozy-bookmakers .div-prognozy-span span {
+		margin-right: 15px;
+	}
+	.div-prognozy-bookmakers .match-matches-section-2-2-forecast {
+		margin: 0 0px;
+	}
+	.div-prognozy-bookmakers.div-right .match-button-s-2-2-f {
+		width: 75px;
+		justify-content: center;
+	}
+
+	.img-spam-p-none{
+		display: none;
+	}
+	.content-block-1.content-block-1-forecast2 .prognozy.prognozy-schet.sec-2 {
+		height: auto;
+		padding: 27px 0px 51px;
+	}
+	.prognozy-section-none,
+	.prognozy-section-none-n{
+		display: none;
+	}
+	.content-block-1.content-block-1-forecast.content-block-1-forecast2 .prognozy.prognozy-schet-f-web.prognozy-schet.sec-2 {
+		padding: 27px 0px 25px;
+	}
+	.content-block-1.content-block-1-prognozy-schet.content-block-1-forecast.content-block-1-forecast2 .prognozy.prognozy-schet-f-web.prognozy-schet.sec-2 {
+		padding: 27px 0px 45px;
+	}
+	.content-block-right-0.content-block-right-0-school .img-spam-p-none,
+	.content-block-right-0.content-block-right-0-school .img-spam-p-none-n {
+		display: block;
+	}
+	.content-block-red .div-top {
+		display: flex;
+		align-items: center;
+		width: 82%;
+	}
+	.content-block-red input {
+		width: 271px;
+	}
+	.content-left .content-block-left-text-news {
+		padding: 32px 0px;
+	}
+}
+
+
+@media screen and (max-device-width: 1220px){
+	.content-block-left-order .content-block-purple {
+		background-color: #8051D0;
+		background-image: none;
+	}
+	.content-block-left-0 {
+		flex-wrap: wrap;
+	}
+	.content-block-red{
+		height: 400px;
+	}
+	.nav-header ul li {
+		padding: 0 8px;
+	}
+	.nav-footer ul li{
+		padding: 0 13px 0 0;
+	}
+	.nav-header {
+		margin: 10px 0px 0px 0px;
+	}
+	.logo-header img {
+		width: 90%;
+	}
+	.content.content-footer.content-footer-0 {
+		display: none;
+	}
+	.content-block-forecast .prognozy-schet,
+	.content-left .content-block-img, 
+	.content-left .content-block-left-text {
+		width: 290px;
+	}
+	.footer-logo-ul {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+		-ms-align-items: center;
+		align-items: center;
+	}
+	.footer-logo-ul ul li{
+		display: inline-block;
+		margin: 0 0px 0px 11px
+	}
+	.content-left .content-block-img .text-butt-left {
+		bottom: 100px;
+		left: 20px;
+	}
+	.content-left .content-block-img .text-butt-left-news2 {
+		bottom: 60px;
+		left: 20px;
+	}
+	.content{
+		max-width: 595px;
+		width: 100%;
+	}
+	.logo-1{
+		display: block;
+	}
+	.logo-0{
+		display: none;
+	}
+	.content-block-red{
+		height: 400px;
+		background-image: url(../img/backgrounds/Layer82.png);
+	}
+	.content-block-red .div-top {
+		flex-direction: column;
+		text-align: center;
+		margin-bottom: 42px;
+	}
+	.content-block-red .div-top .h2-p p {
+		bottom: 200px;
+		right: 0;
+		left: 0;
+	}
+	.content-block-red .div-top .img {
+		margin: 35px 0px 18px 0px;
+	}
+	.div-bottom {
+		text-align: center;
+	}
+	.content-block-red input, 
+	.content-block-red button {
+		margin: 0 0px 10px 0px;
+	}
+	.content-block-red button {
+		margin: 17px 0px 0 0px;
+	}
+	.span-butt-right {
+		bottom: 100px;
+		left: 20px;
+	}
+	.text-butt-left {
+		width: 90%;
+	}
+	.content-left .content-block-img {
+		background-image: url(../img/news/Layer26copy4.png);
+	}
+	.content-left .span-content-block-left-text-top p {
+		width: 25%;
+	}
+	.bgi_SelectiveColor1-news2{
+		display: block;
+	}
+	.content-block-left-news-novosti .news-conteiner-sec-4-4 {
+		width: 100%;
+	}
+	.nav-mob-news{
+		display: block;
+	}
+	.nav-veb-news{
+		display: none;
+	}
+	.content-block-left-news-novosti .news.news-novosti.sec-4.sec-4-4 {
+		background-image: url(../img/Rectangle1copy334.png);
+	}
+	.text-butt-left-news .text-butt-left .b-l-f,
+	.text-butt-left-news .text-butt-left img{
+		display: none;
+	}
+	.text-butt-left.text-butt-left-forecast2 .b-l-f {
+		display: none;
+	}
+	.text-butt-left-forecast2 {
+		align-items: self-start;
+		flex-direction: column;
+	}
+	.text-butt-left-forecast2 .p-img-span {
+		margin: 15px 0;
+	}
+	.content-left .content-block-img .text-butt-left-forecast2 {
+		bottom: 70px;
+	}
+	.text-butt-left-forecast2 .img-left {
+		width: 10%;
+	}
+	.content-left .content-block-img .text-butt-left p {
+		margin-bottom: 0px;
+		font-size: 14px;
+		letter-spacing: 1px;
+		line-height: 24px;
+	}
+	.content-left .content-block-img .span-butt-right-news {
+		bottom: 30px;
+	}
+	.content-left .content-block-img .text-butt-left-news {
+		bottom: 75px;
+	}
+	.content-left .content-block-img .text-butt-left-news2 {
+		bottom: 35px;
+	}
+	.content-block.content-block-1-forecast {
+		width: 290px;
+		height: auto;
+	}
+	.content-block-1-forecast .prognozy.prognozy-schet.sec-2 {
+		height: auto;
+		margin-top: 0px;
+	}
+	.prognozy-schet-f-mob{
+		display: flex;
+	}
+	.prognozy-schet-f-web{
+		display: none;
+	}
+	.prognozy-schet-f-mob .prognozy-section {
+		flex-wrap: wrap;
+	}
+	.prognozy-schet-f-mob .prognozy-section .div-prognozy{
+		width: 100%;
+		justify-content: space-between;
+	}
+	.prognozy-schet-f-mob .prognozy-section .div-prognozy-span {
+		display: flex;
+		margin: 0;
+		-ms-align-items: center;
+		align-items: center;
+	}
+	.prognozy-schet-f-mob .prognozy-section .div-prognozy.div-left {
+		margin: 10px 0;
+	}
+	.prognozy-schet-f-mob .prognozy-section .div-prognozy.div-left {
+		margin: 10px 0;
+	}
+	.span-butt-right {
+		bottom: 80px;
+	}
+	.div-prognozy-span .button-r{
+		display: none;
+	}
+	.content-block-forecast.content-block-1-bookmakers .prognozy-schet-f-web {
+		display: flex;
+	}
+	.div-prognozy-bookmakers.div-right .match-button-s-2-2-f.match-button-s-2-2-2,
+	.div-prognozy-bookmakers .div-prognozy-span .span-3 a{
+		display: none;
+	}
+	.div-prognozy-bookmakers .div-prognozy-span span {
+		margin-right: 8px;
+	}
+	.div-prognozy-bookmakers.div-right .match-button-s-2-2-f {
+		width: 65px;
+		justify-content: flex-end;
+		padding: 0 0px;
+	}
+	.content-block-right-0.content-block-right-bookmakers .stavki.rates-stavki.sec-4 {
+		height: auto;
+	}
+	.content-block-right-0.content-block-right-bookmakers  .rates-stavki .c-2-1-mar .c-2-2 .h1-p {
+		width: 53%;
+		text-align: center;
+		margin-top: 30px;
+	}
+	.content-block-forecast.content-block-1-bookmakers .razdel {
+		margin: 20px 0px;
+	}
+	.content-block-forecast.content-block-1-bookmakers .prognozy-section {
+		flex-wrap: nowrap;
+	}
+	.content-left .content-block-left-order-school .order5-none,
+	.img-spam-p-none-n,
+	.match-matches-section.match-matches-section-none,
+	.img-spam-p-none{
+		display: none;
+	}
+	.content-block-right-0-forecast2 .content-block.Rectangle1copy334.content-block-3 {
+		min-height: auto;
+	}
+	.content-block-red input {
+		width: 235px;
+	}
+	.img-spam-p.img-spam-p-none-n-sc,
+	.img-spam-p.img-spam-p-none-sc {
+		display: block;
+	}
+	.img-spam-p-none10-n{
+		display: block;
+	}
+}
+
+@media screen and (max-device-width : 780px){
+	.content {
+		max-width: 300px;
+		width: 100%;
+	}
+	.content-block-right-0-boneses{
+		display: none;
+	}
+	.nav ul li {
+		display: block;
+	}
+	footer {
+		height: 590px;
+	}
+	footer {
+		margin-top: -172px;
+	}
+	.logo.logo-header.logo-0 {
+		width: 100%;
+	}
+	.logo-header img {
+		width: 100%;
+	}
+	.logo-1{
+		display: none;
+	}
+	.logo-0{
+		display: block;
+	}
+	.content-left {
+		width: 100%;
+	}
+	.footer-news {
+		margin-top: -92px;
+		height: 520px;
+	}
+	.content-section {
+		display: flex;
+		flex-direction: column;
+	}
+	.content-block.content-block-1.bgi_SelectiveColor1 {
+		display: none;
+	}
+	.content-section-button-forecast-1{
+		display: none;
+	}
+	.content-section-button-forecast-2{
+		display: flex;
+	}
+	.news.news-novosti-3.sec-4.sec-4-4{
+		background-position-y: 28px;
+	}
+	.content-section-button-forecast2{
+		display: none;
+	}
+	.content-right-school{
+		display: none;
+	}
+	.content-block.content-block-1-forecast.content-block-1-bookmakers {
+		width: 290px;
+		height: 431px;
+		overflow: hidden;
+	}
+	.content-block-right-bookmakers .rates-stavki.sec-4 .c-2-1, 
+	.content-block-right-bookmakers .rates-stavki.sec-4 .c-2-2 {
+		width: 100%;
+		height: 400px;
+		margin-bottom: 10px;
+	}
+	.content-block-right-bookmakers .filtr.content-block-3.margin-block {
+		display: none;
+	}
+	.content-block-1-bookmakers .mob-f-a {
+		display: block;
+		margin-top: 20px;
+	}
+	.content-block-1-bookmakers .prognozy-section_1 {
+		margin-top: 25px;
+	}
+	.img-spam-p-none{
+		display: block;
+	}
+	.footer-school {
+		margin-top: -199px;
+		height: 635px;
+	}
+
+
+	.navbar-collapse .nav {
+		width: 107%;
+		box-shadow: none;
+		position: relative;
+		top: 100%;
+		left: 0;
+		z-index: 100;
+		display: block;
+	}
+	.content-section {
+		margin: 0;
+		z-index: 1;
+	}
+	.logo.logo-header.logo-0 {
+		width: 100%;
+	}
+	.navbar-header {
+		display: flex;
+		align-items: center;
+	}
+	.logo_nav-mob-n,
+	.white-popup-mob-n,
+	.welcome-header-mob-n{
+		display: none;
+	}
+	.navbar.navbar-default.navbar-static-top{
+		display: block;
+	}
+	.img-spam-p-none10-n,
+	.img-spam-p.img-spam-p-none-n-sc,
+	.img-spam-p.img-spam-p-none-sc {
+		display: none;
+	}
+}

@@ -1,0 +1,68 @@
+/* fonts.css */
+@font-face {
+    font-family: "OpenSansRegular" ;
+    src: url("../fonts/OpenSansRegular.eot");
+    src: url("../fonts/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "OpenSans-Bold" ;
+    src: url("../fonts/OpenSans-Bold.eot");
+    src: url("../fonts/OpenSans-Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans-Bold.woff") format("woff"),
+    url("../fonts/OpenSans-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "OpenSans-Extrabold" ;
+    src: url("../fonts/OpenSans-Extrabold.eot");
+    src: url("../fonts/OpenSans-Extrabold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSans-Extrabold.woff") format("woff"),
+    url("../fonts/OpenSans-Extrabold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "ProximaNova-Bold" ;
+    src: url("../fonts/ProximaNova-Bold.eot");
+    src: url("../fonts/ProximaNova-Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ProximaNova-Bold.woff") format("woff"),
+    url("../fonts/ProximaNova-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "ProximaNova-Regular" ;
+    src: url("../fonts/ProximaNova-Regular.eot");
+    src: url("../fonts/ProximaNova-Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ProximaNova-Regular.woff") format("woff"),
+    url("../fonts/ProximaNova-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "intro" ;
+    src: url("../fonts/intro.eot");
+    src: url("../fonts/intro.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/intro.woff") format("woff"),
+    url("../fonts/intro.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "ProximaNova-Extrabld" ;
+    src: url("../fonts/ProximaNova-Extrabld.eot");
+    src: url("../fonts/ProximaNova-Extrabld.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/ProximaNova-Extrabld.woff") format("woff"),
+    url("../fonts/ProximaNova-Extrabld.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

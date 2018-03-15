@@ -1,0 +1,427 @@
+
+@media screen and (max-device-width: 1220px){
+
+	.nav-header ul li {
+		padding: 0 8px;
+	}
+	.nav-footer ul li{
+		padding: 0 13px 0 0;
+	}
+	.nav-header {
+		margin: 10px 0px 0px 0px;
+	}
+	.welcome-header button {
+		margin-left: 10px;
+	}
+	.logo-header img {
+		width: 90%;
+	}
+	.forecasts-section {
+		margin-top: 0px;
+		max-width: 380px;
+		width: 100%;
+	}
+	.carousel{
+		max-width: 380px;
+		width: 100%;
+	}
+	.sec-2 {
+		width: 100%;
+	}
+	.prognozy.prognozy-schet.sec-2 {
+		height: 810px;
+		margin-top: 10px;
+	}
+	section .content-section-2 {
+		height: 1000px;
+	}
+	section .content-section-2-0{
+		display: none;
+	}
+	section .content-section-2-1{
+		display: block;
+	}
+	section .content-section-2-2{
+		display: none;
+	}
+	section .content-section-4-0{
+		display: none;
+	}
+	section .content-section-4-1{
+		display: block;
+	}
+	section .content-section-4-2{
+		display: none;
+	}
+	.content.content-footer.content-footer-0 {
+		display: none;
+	}
+	.content-decktop.content-footer.content-footer-1{
+		display: block;
+	}
+	.content-section-3 {
+		margin: -985px 0 0px;
+	}
+	.center-red {
+		margin: 676px 0;
+	}
+	.sec-4-cont {
+		flex-wrap: wrap;
+		/*margin-top: -20px;*/
+	}
+	.sec-4-2-cont{
+		margin-top: 0px;
+	}
+	.sec-4-2-cont .sec-4{
+		height: 390px;
+	}
+	.footer-logo-ul {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+		-ms-align-items: center;
+		align-items: center;
+	}
+	.footer-logo-ul ul li{
+		display: inline-block;
+		margin: 0 0px 0px 11px
+	}
+	.sec-4 {
+		width: 100%;
+	}
+	.s-sec-4 {
+		height: 430px;
+	}
+	.content{
+		max-width: 595px;
+		width: 100%;
+	}
+	.content-decktop{
+		max-width: 595px;
+		width: 100%;
+		display: block;
+	}
+	.logo-1{
+		display: block;
+	}
+	.logo-0{
+		display: none;
+	}
+	.news-novosti {
+		margin-top: 39px;
+	}
+	.stavki.rates-stavki.sec-4 {
+		height: 810px;
+	}
+	.bookmaker-section-1{
+		display: none;
+	}
+	.owl-carousel.car-sel-1{
+		display: block !important;
+		overflow: hidden;
+	}
+	.owl-carousel.car-sel-0{
+		display: none !important;
+	}
+	.owl-pagination {
+		bottom: 35px;
+	}
+	.carus {
+		width: 300px;
+	}
+	.owl-carousel.owl-theme .text {
+		left: 0;
+		text-align: center;
+		width: 100%;
+		position: absolute;
+		top: 35px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.owl-carousel.owl-theme .text .h1,
+	.owl-carousel.owl-theme .text p {
+		width: 65%;
+		margin-bottom: -6px;
+	}
+	.owl-dots {
+		position: absolute;
+		bottom: 15px;
+		left:60px;
+	}
+}
+
+
+@media screen and (max-device-width : 780px){
+
+	.content-section {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+	.c-2 {
+		flex-wrap: wrap;
+	}
+	.c-2-1, 
+	.c-2-2 {
+		width: 100%;
+		height: 405px;
+		margin-bottom: 10px;
+	}
+	.center-red {
+		margin: 1085px 0;
+	}
+	.sec-4-cont {
+		flex-wrap: wrap;
+		margin-top: 0px;
+	}
+	.sec-4-2-cont{
+		margin-top: -20px;
+	}
+	.content-section-4 {
+		margin-bottom: -125px;
+	}
+	.nav ul li {
+		display: block;
+	}
+	footer {
+		height: 550px;
+	}
+	.s-sec-4{
+		height: 405px;
+	}
+	.s-sec-2{
+		margin-top: 10px;
+	}
+	.prognozy.prognozy-schet.sec-2 {
+		margin-top: 0px;
+	}
+	.content, 
+	.content-decktop {
+		max-width: 300px;
+		width: 100%;
+	}
+	.content-mob{
+		max-width: 300px;
+		width: 100%;
+	}
+	.content-decktop{
+
+	}
+	section .content-section-2-2{
+		display: block;
+	}
+	section .content-section-2-1{
+		display: none;
+	}
+	section .content-section-4-1{
+		display: none;
+	}
+	section .content-section-4-2{
+		display: block;
+	}
+	.search-header-mob-none{
+		display: none;
+	}
+	.logo-header img {
+		width: 100%;
+	}
+	.logo-1{
+		display: none;
+	}
+	.logo-0{
+		display: block;
+	}
+
+	.welcome-1{
+		display: block;
+	}
+	.nav-header-1{
+		display: none;
+	}
+	.prognozy-section {
+		flex-wrap: wrap;
+	}
+	.div-prognozy {
+		width: 100%;
+		justify-content: space-between;
+	}
+	.div-prognozy-span {
+		display: flex;
+	}
+	.div-prognozy.div-left .div-prognozy-span .span-2 {
+		margin-left: 5px;
+	}
+	.div-prognozy.div-left {
+		margin: 10px 0;
+	}
+	.div-prognozy-span {
+		margin: 0px;
+	}
+	.ugaday-schet .c-2-1-mar .c-2-1 .text {
+		bottom: 40px;
+	}
+	.content-section-4 .rates-stavki.sec-4-height {
+		height: 1200px;
+	}
+	.sec-4-cont.sec-4-2-cont.s-sec-2 {
+		margin-top: 44px;
+	}
+	.content-section-3 {
+		margin: -1538px 0 0px;
+	}
+	.center-red {
+		margin: 1195px 0;
+	}
+	.cont-2-div {
+		margin: 0 15px;
+	}
+	.span-cont-1 {
+		margin: 0px 25px 15px;
+	}
+	.ugaday-schet-button {
+		margin: 76px 0 0;
+	}
+	.cont-2-div .data .time, 
+	.cont-2-div .data .month {
+		font-family: "OpenSans-Extrabold";
+		font-size: 12px;
+	}
+	.div-span-cont .span-top, 
+	.div-span-cont .span-bottom {
+		font-family: "OpenSans-Extrabold";
+		font-size: 15px;
+	}
+	.cont-1-div h2, .cont-3-div h2 {
+		font-family: "ProximaNova-Extrabld";
+		font-size: 16px;
+		color: #fff;
+		margin: 10px 0;
+		letter-spacing: 2px;
+	}
+	.stavki.rates-stavki.sec-4 .c-1 .cont-position-ab,
+	.stavki.rates-schet.sec-4 .c-1 .cont-position-ab {
+		top: 35px;
+		align-items: center;
+		left: 0;
+		text-align: center;
+		width: 100%;
+	}
+	.c-1 .cont-position-ab img {
+		margin: 14px 0px 11px;
+	}
+	.c-1 .cont-position-ab h1,
+	.c-1 .cont-position-ab h1 {
+		width: 50%;
+		margin-bottom: 10px
+	}
+	.c-1 .cont-position-ab p,
+	.c-1 .cont-position-ab p {
+		width: 55%;
+	}
+	.sec-4{
+		height: auto;
+	}
+	.news-conteiner-sec-4-4 {
+		width: 100%;
+	}
+	.nav-match-matches-2 .nav ul li{
+		padding: 0 18px;
+	}
+	.nav-match-matches-2 .nav ul {
+		display: flex;
+	}
+	.match-matches-section {
+		display: flex;
+		flex-direction: column-reverse;
+		align-items: center;
+		padding: 10px 0 25px;
+	}
+	.match-matches-section-1 {
+		display: flex;
+		align-items: center;
+		margin-top: 20px;
+	}
+	.match-matches-section-2-1 {
+		display: flex;
+		align-items: center;
+	}
+	.match-matches-section-2-1 ul {
+		display: block;
+	}
+	.match-ul-div-2 {
+		margin: 0 18px;
+	}
+	.match-matches-section img {
+		margin-top: 7px;
+		width: 48%;
+	}
+	.sec-4-cont.sec-4-2-cont.s-sec-2 {
+		margin-top: 0px;
+	}
+	.c-2 {
+		height: auto;
+	}
+	.c-2-2-mar {
+		margin-bottom: 0;
+	}
+	.matches.match-matches.sec-4.sec-4-4.sec-heit-match {
+		margin: -5px 0 5px;
+	}
+	.prognozy-schet,
+	.ugaday-schet .c-1 {
+		background-position-y: 42px;
+	}
+	.ugaday-schet-button-but {
+		background-image: url(../img/Rectangle42.png);
+	}
+	.ugaday-schet-button-but {
+		background-position-y: 63px;
+	}
+	.ugaday-schet-button-l-r .left {
+		left: 44px;
+	}
+	.ugaday-schet-button-l-r .right {
+		right: 44px;
+	}
+	.pop {
+		margin-top: 50px;
+	}
+	.mfp-close {
+		top: 51px !important; 
+	}
+	.car-sel {
+		width: 299px;
+	}
+	.owl-carousel .owl-item img {
+		width: 299px;
+	}
+	.forecasts-section {
+		margin-top: 10px;
+	}
+	.content-header {
+    align-items: start;
+}
+.button-header {
+    align-items: start;
+}
+.welcome-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+.nav.nav-header {
+    position: absolute;
+    top: 62px;
+    left: 0;
+}
+}
+
+@media screen and (max-device-width: 330px){
+	.content-mob {
+		max-width: 290px;
+	}
+}
